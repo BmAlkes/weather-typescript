@@ -1,0 +1,18 @@
+:root {
+  --white: #fff;
+  --primary: #f59e0b;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  background-image: url("../src/assets/weather.jpg");
+  background-size: cover;
+  height: 100vh;
+  background-repeat: no-repeat;
+  color: var(--white);
+  font-size: 2rem;
+}
